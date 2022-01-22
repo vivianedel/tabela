@@ -1,0 +1,32 @@
+            table,th,td{background-color: rgb(231, 229, 229);}
+            td{text-align: center;}
+            .period{background-color: rgb(201, 196, 196);}
+            .android{background-color: rgb(155, 218, 155);}
+            .iOS{background-color: rgb(122, 183, 223);}
+            .WindowsPhone{background-color: rgb(215, 186, 228);}
+            .Others{background-color: rgb(228, 143, 104);}
+            thead{color: gray;}
+            .period{
+                border-top-style: solid;
+                border-top-color: gray
+            }
+            .android{
+                border-top-style: solid;
+                border-top-color: green
+            }
+            .iOS{
+                border-top-style: solid;
+                border-top-color: blue
+            }
+            .WindowsPhone{
+                border-top-style: solid;
+                border-top-color: rgb(190, 92, 108)
+            }
+            .Others{
+                border-top-style: solid;
+                border-top-color: rgb(179, 56, 7)
+            }
+            
+
+            
+           
